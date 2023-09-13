@@ -154,6 +154,7 @@ ul li{
     width: 100%;
 }
 
+/* ----- animal lover section ----  */
 
 .animal-lover-section .container{
     width: 1200px;
@@ -198,3 +199,50 @@ ul li{
     max-width: 50%;
 }
 
+
+/* ----- Our services section -----  */
+
+.our-services-section{
+    background-color: #FFC400;
+    text-align: center;
+}
+
+.our-services-section .container{
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.para{
+    width: 500px;
+    margin: 0 auto;
+}
+.our-services_text-content h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.our-services_text-content p{
+    font-size: 20px;
+    color: #FFF;
+
+}
+
+
+.our-services_image{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    color: white;
+}
+.our-services_image h3{
+   font-weight: bold;
+   font-size: 28px;
+}
+.block{
+   width: 300px;
+   margin: 0 auto;
+}
+.block p{
+    font-size: 22px;
+}
