@@ -361,7 +361,7 @@ ul li{
 
 .vetcare-team .container{
     width: 1200px;
-    padding: 140px 25px;
+    padding: 120px 25px;
     text-align: center;
     margin: 0 auto;
    
@@ -418,7 +418,7 @@ ul li{
 
 .recent-post .container{
     width: 1220px;
-    padding: 140px 25px;
+    padding: 120px 25px;
     text-align: center;
     margin: 0 auto;
 
@@ -426,7 +426,7 @@ ul li{
 .recent-post_text h2{
     font-size: 60px;
     color: #2D2E42;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 .recent-post_text p{
     font-size: 24px;
@@ -482,19 +482,20 @@ ul li{
 .fotter-section .container{
     width: 1220px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .fotterstyle{
-    font-size: 30px;
+    font-size: 35px;
     color: white;
     font-weight: 600;
     margin-bottom: 30px;
     text-align: left;
 }
 .fotterul{
+    font-size: 20px;
     color: white;
-    line-height: 30px;
+    line-height: 35px;
     text-align: left;
 }
 .fottertittle{
@@ -504,6 +505,8 @@ ul li{
     text-align: right;
 }
 .fotter_text-3 p{
+    font-size: 20px;
+    font-weight: 400;
     color: white;
     line-height: 30px;
     text-align: right;
