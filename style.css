@@ -213,18 +213,20 @@ ul li{
 }
 
 .para{
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
 }
 .our-services_text-content h2{
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 700;
     color: #FFF;
 }
 
 .our-services_text-content p{
-    font-size: 20px;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
     color: #FFF;
+
 
 }
 
@@ -236,8 +238,10 @@ ul li{
     color: white;
 }
 .our-services_image h3{
-   font-weight: bold;
-   font-size: 28px;
+   font-weight: 600;
+   font-size: 33px;
+   margin-top: 45px;
+   margin-bottom: 10px;
 }
 .block{
    width: 300px;
@@ -246,3 +250,46 @@ ul li{
 .block p{
     font-size: 22px;
 }
+
+
+/* ----- animal treatment section ----  */
+
+.containerblog{
+    width: 1200px;
+    padding: 140px 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+.animal-treatment_text-contant{
+    width: 50%;
+    text-align: right;
+}
+
+.animal-treatment_text-contant h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #2D2E42;
+    line-height: 56px;
+    margin-bottom: 40px;
+}
+
+.animal-treatment_text-contant p{
+    font-size: 29px;
+    font-weight: 400;
+    color: #2D2E42;
+    margin-bottom: 40px;
+}
+
+.animal-treatment_text-contant a{
+    display: inline-block;
+    font-size: 24px;
+    color: #FFF;
+    background-color:#FFC400;
+    border-radius: 8px;
+    padding: 24px 34px;
+}
+
