@@ -468,3 +468,45 @@ ul li{
     font-family: 'Poppins', sans-serif;
 
 }
+
+
+/* ------ fotter section -------  */
+
+.fotter-section{
+    width: 1550px;
+}
+.fotter-section .container{
+    width: 100%;
+    background-color: #313131;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fotterstyle{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.fotterul{
+    color: white;
+    line-height: 30px;
+    text-align: left;
+}
+.fottertittle{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    text-align: right;
+}
+.fotter_text-3 p{
+    color: white;
+    line-height: 30px;
+    text-align: right;
+    margin-bottom: 40px;
+}
+.fotterlogo{
+    margin-top: 35px;
+    text-align: right;
+}
