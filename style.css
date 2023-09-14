@@ -301,6 +301,7 @@ ul li{
 .offer-section{
     background-color: #FFC400;
     text-align: center;
+    width: 1550px;
 }
 
 .offer-section .container{
@@ -378,12 +379,12 @@ ul li{
     
 }
 
-.vatcarepara{
-    font-size: 25px;
-    width: 600px;
-    margin: 0 auto;
-    margin-bottom: 50px;
-    font-family: 'Poppins', sans-serif;
+.vatcare-team_text-contant p{
+        font-size: 25px;
+        width: 600px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        font-family: 'Poppins', sans-serif;
 }
 
 .vatcare-image h2{
@@ -406,4 +407,64 @@ ul li{
 
 .contact-section_bg img{
     width: 100%;
+}
+
+/* ------- Recent Post -----  */
+
+.recent-post{
+    width: 1500px;
+}
+
+.recent-post .container{
+    width: 100%;
+    padding: 140px 25px;
+    text-align: center;
+}
+.recent-post_text h2{
+    font-size: 60px;
+    color: #2D2E42;
+    margin-bottom: 50px;
+}
+.recent-post_text p{
+    font-size: 24px;
+    width: 600px;
+    margin: 0 auto;
+}
+.recent-image{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+.recent_text{
+    font-size: 24px;
+    width: 300px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+    color: #474844;
+    margin-top: 35px;
+    text-align: left;
+}
+.recent-date{
+    color: #1090e0;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.recentpara{
+    font-size: 13px;
+    font-weight: 500;
+    width: 250px;
+    text-align: left;
+    color: #2D2E42;
+}
+.read{
+    font-size: 22px;
+    color: #1090e0;
+    text-align: left;
+    font-weight: 500;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+
 }
