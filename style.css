@@ -349,3 +349,51 @@ ul li{
     border-radius: 30px;
     margin-top: 15px;
 }
+
+
+/* --- vatcare team ---- */
+
+.vetcare-team{
+    display: flex;
+}
+
+.vetcare-team .container{
+    width: 100%;
+    padding: 140px 25px;
+    text-align: center;
+   
+    
+}
+
+.vatcare-team_text-contant h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #2D2E42;
+}
+
+
+.vatcare-image{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.vatcarepara{
+    font-size: 25px;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.vatcare-image h2{
+    font-weight: 700;
+    color: #010001;
+    margin-top: 20px;
+
+}
+
+.vatcare-image h4{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
