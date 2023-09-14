@@ -397,3 +397,13 @@ ul li{
     font-weight: 500;
     margin-bottom: 20px;
 }
+
+
+/* ------- Contact section -----  */
+.contact-section .container{
+    width: 1600px;
+}
+
+.contact-section_bg img{
+    width: 100%;
+}
