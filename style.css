@@ -56,6 +56,7 @@ ul li{
     border: none;
     font-size: 24px;
     color: #FFFFFF;
+   
 }
 
 .search-filed::placeholder{
@@ -63,6 +64,7 @@ ul li{
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
     color: #FFFFFF;
+
 }
 
 .search-itam{
@@ -80,6 +82,7 @@ ul li{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    
 }
 
 .search-icon{
@@ -293,3 +296,56 @@ ul li{
     padding: 24px 34px;
 }
 
+/* ----- offer section ----- */
+
+.offer-section{
+    background-color: #FFC400;
+    text-align: center;
+}
+
+.offer-section .container{
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.offer-section_text-contant h2{
+    font-size: 70px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.offer-section_text-contant p{
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.offer-image{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.price{
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+
+.cross{
+    margin: 20px;
+}
+
+.buy{
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #00BFCB;
+    padding: 15px 50px;
+    display: inline-block;
+    border-radius: 30px;
+    margin-top: 15px;
+}
